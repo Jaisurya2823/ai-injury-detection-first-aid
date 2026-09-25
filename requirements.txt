@@ -1,0 +1,17 @@
+# Core runtime
+fastapi>=0.115,<1
+uvicorn>=0.32,<1
+python-multipart>=0.0.9,<1
+pydantic>=2,<3
+opencv-python>=4.10,<5
+numpy>=2.0,<3
+Pillow>=11,<13
+scikit-learn>=1.5,<2
+
+# Optional browser UI
+streamlit>=1.40,<2
+
+# Development/test
+pytest>=8,<10
+anthropic>=0.25
+inference-sdk

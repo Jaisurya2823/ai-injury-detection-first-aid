@@ -1,0 +1,72 @@
+[
+  {
+    "document_id": "who-burns-2023",
+    "title": "Burns",
+    "source": "https://www.who.int/news-room/fact-sheets/detail/burns",
+    "version": "2023-10-13",
+    "text": "For burns, stop the burning process and use cool running water for at least 10 minutes. Protect the area with a clean non-fluffy covering and seek appropriate medical care for serious burns. Avoid ice and avoid applying household pastes or oils. Burns are classified as superficial, partial-thickness, or full-thickness. Electrical burns may have an exit wound."
+  },
+  {
+    "document_id": "redcross-wounds",
+    "title": "Wounds: Symptoms, Types, and First Aid",
+    "source": "https://www.redcross.org/take-a-class/resources/learn-first-aid/wounds",
+    "version": "current-page",
+    "text": "For wounds, first check scene safety and signs of serious bleeding or shock. Basic care depends on the injury type: cut, abrasion, puncture, or laceration. Serious or persistent bleeding requires emergency medical attention. Control bleeding with direct pressure using a clean cloth. Clean minor wounds with clean water and apply antibiotic ointment."
+  },
+  {
+    "document_id": "redcross-bleeding",
+    "title": "Bleeding (Life-Threatening External)",
+    "source": "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+    "version": "current-page",
+    "text": "Life-threatening external bleeding is an emergency. After ensuring scene safety, seek emergency help and apply direct pressure to an external wound while waiting for help. Use a tourniquet for severe limb bleeding. Do not remove embedded objects."
+  },
+  {
+    "document_id": "who-bec",
+    "title": "WHO-ICRC Basic Emergency Care",
+    "source": "https://www.who.int/publications/i/item/basic-emergency-care-approach-to-the-acutely-ill-and-injured",
+    "version": "2018-manual-updated-materials-2025",
+    "text": "WHO and ICRC describe a systematic approach to the initial assessment and management of time-sensitive illness and injury and emphasize early recognition and appropriate escalation. ABCDE assessment: Airway, Breathing, Circulation, Disability, Exposure."
+  },
+  {
+    "document_id": "firstaid-cut-laceration",
+    "title": "Cuts and Lacerations: First Aid",
+    "source": "https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711",
+    "version": "2024",
+    "text": "Cuts and lacerations require bleeding control, wound cleaning and infection prevention. Apply direct pressure with a clean cloth for 15 minutes to stop bleeding. Clean the wound with clean water; avoid hydrogen peroxide directly in the wound. Apply antibiotic ointment such as bacitracin or neosporin. Cover with a sterile adhesive bandage or gauze. Seek medical attention for deep cuts, wounds that won't stop bleeding, wounds with jagged edges, or cuts to the face."
+  },
+  {
+    "document_id": "firstaid-abrasion",
+    "title": "Abrasions and Scrapes: First Aid",
+    "source": "https://www.healthline.com/health/abrasion",
+    "version": "2024",
+    "text": "Abrasions are superficial wounds where skin is scraped away. Rinse thoroughly with clean running water to remove dirt and debris. Gently clean with mild soap around the wound. Apply antiseptic solution such as povidone-iodine or chlorhexidine. Apply antibiotic ointment such as bacitracin. Cover with a non-stick sterile bandage. Change the dressing daily and watch for signs of infection: increasing redness, warmth, swelling, or pus."
+  },
+  {
+    "document_id": "firstaid-bruise-contusion",
+    "title": "Bruises and Contusions: First Aid",
+    "source": "https://www.redcross.org/take-a-class/resources/learn-first-aid/bruises",
+    "version": "2024",
+    "text": "A bruise (contusion) is bleeding under the skin caused by blunt trauma. Apply a cold compress or ice pack wrapped in cloth for 20 minutes every 1-2 hours for the first 48 hours to reduce swelling. Elevate the injured area above heart level to reduce swelling. Ibuprofen (Advil, Motrin) or acetaminophen (Tylenol) can relieve pain. Do not apply heat for the first 48 hours. Seek medical attention if bruising is severe, or if there is significant swelling, inability to move the limb, or the bruise does not improve after 2 weeks."
+  },
+  {
+    "document_id": "firstaid-burn-treatment",
+    "title": "Burn First Aid and Treatment",
+    "source": "https://www.mayoclinic.org/first-aid/first-aid-burns/basics/art-20056649",
+    "version": "2024",
+    "text": "For minor burns, cool the burn under cool running water for 10-20 minutes. Do not use ice, iced water, or any creams or greasy substances. Remove jewellery or clothing from the burned area. Cover the burn with cling film or a clean non-fluffy bandage. Take ibuprofen or acetaminophen for pain relief. Do not burst blisters. For chemical burns, brush off dry chemical and rinse with large amounts of water. For electrical burns, do not touch the person until the power source is off. Seek emergency care for burns larger than 3 inches, burns on face, hands, feet, genitals, or major joints, and all third-degree burns."
+  },
+  {
+    "document_id": "firstaid-swelling",
+    "title": "Swelling and Sprains: First Aid",
+    "source": "https://www.nhs.uk/conditions/sprains-and-strains/",
+    "version": "2024",
+    "text": "For swelling due to sprain or soft tissue injury use the PRICE method: Protect, Rest, Ice, Compress, Elevate. Apply ice wrapped in cloth for 20 minutes every 2-3 hours for 48-72 hours. Use a compression bandage such as an elastic bandage to support the area. Elevate the injured limb above heart level. Take ibuprofen (Advil, Motrin) or naproxen (Aleve) to reduce pain and swelling. Seek medical attention if the person cannot bear weight, deformity is visible, numbness or tingling is present, or swelling does not improve after 72 hours."
+  },
+  {
+    "document_id": "firstaid-wound-infection",
+    "title": "Wound Infection: Signs and Prevention",
+    "source": "https://www.healthline.com/health/wound-infection",
+    "version": "2024",
+    "text": "Signs of wound infection include increasing redness, warmth, swelling, pus or cloudy discharge, red streaks spreading from the wound, fever, and increasing pain after 24-48 hours. To prevent infection: clean wounds thoroughly with water, apply antibiotic ointment (bacitracin, neosporin), keep wound covered and moist. Seek immediate medical attention for spreading redness, fever above 38C/100.4F, or any signs of systemic infection. Tetanus prophylaxis may be needed for dirty wounds."
+  }
+]
